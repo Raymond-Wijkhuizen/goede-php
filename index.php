@@ -5,7 +5,7 @@ $now = date("H:i");
 
 if ($now > '00:00') {
     $bg = 'night.png';
-    $time = 'nacht lul';
+    $time = 'nacht';
 }
 if ($now > '06:00') {
     $bg = 'morning.png';
